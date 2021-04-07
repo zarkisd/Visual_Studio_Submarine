@@ -81,9 +81,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\egun.bmp" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\egun.png" />
   </ItemGroup>
   <ItemGroup>
@@ -99,7 +96,7 @@
     <None Include="Resources\ship.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ship_.png" />
+    <None Include="Resources\bomb.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
